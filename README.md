@@ -1,5 +1,5 @@
 
-copiar os arquivos da pasta www para a pasta public
+copiar os arquivos da pasta www do projeto cordova para a pasta public
 
 npm install
 
